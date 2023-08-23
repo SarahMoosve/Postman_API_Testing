@@ -28,7 +28,7 @@
 ## Setup & Installation
 1. Clone the Repository:
 
-git clone https://github.com/yourUsername/Cypress_Practice_Projects.git
+git clone https://github.com/yourUsername/Postman_API_Testing.git
 cd Cypress_Practice_Projects
 2. Install postman.
 3. Open `postman_collection.json` inside Postman.
